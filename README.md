@@ -1,5 +1,5 @@
 ### Hi there 👋, Get-LocalUser
-#### I love Powershell but I'm only bad at it
+#### I love Powershell
 
 Skills: PS?
 
